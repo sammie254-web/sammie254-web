@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sammie254-web
-- 👀 I’m interested in ..web development.and data science 
+- 👀 I’m interested in ..web development.and cloud computing 
 - 🌱 I’m currently learning .html..
 - 💞️ I’m looking to collaborate on ..making big changes in tech
 - 📫 How to reach me .. sam4icon@gmail.com.
